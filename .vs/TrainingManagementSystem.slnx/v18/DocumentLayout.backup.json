@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\OneDrive\\Desktop\\HCL\\TrainingManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0035B26-1780-FB0E-564F-3D072D869F44}|TrainingManagementSystem\\TrainingManagementSystem.csproj|c:\\users\\dell\\onedrive\\desktop\\hcl\\trainingmanagementsystem\\trainingmanagementsystem\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0035B26-1780-FB0E-564F-3D072D869F44}|TrainingManagementSystem\\TrainingManagementSystem.csproj|solutionrelative:trainingmanagementsystem\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0035B26-1780-FB0E-564F-3D072D869F44}|TrainingManagementSystem\\TrainingManagementSystem.csproj|c:\\users\\dell\\onedrive\\desktop\\hcl\\trainingmanagementsystem\\trainingmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0035B26-1780-FB0E-564F-3D072D869F44}|TrainingManagementSystem\\TrainingManagementSystem.csproj|solutionrelative:trainingmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0035B26-1780-FB0E-564F-3D072D869F44}|TrainingManagementSystem\\TrainingManagementSystem.csproj|c:\\users\\dell\\onedrive\\desktop\\hcl\\trainingmanagementsystem\\trainingmanagementsystem\\services\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0035B26-1780-FB0E-564F-3D072D869F44}|TrainingManagementSystem\\TrainingManagementSystem.csproj|solutionrelative:trainingmanagementsystem\\services\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0035B26-1780-FB0E-564F-3D072D869F44}|TrainingManagementSystem\\TrainingManagementSystem.csproj|c:\\users\\dell\\onedrive\\desktop\\hcl\\trainingmanagementsystem\\trainingmanagementsystem\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0035B26-1780-FB0E-564F-3D072D869F44}|TrainingManagementSystem\\TrainingManagementSystem.csproj|solutionrelative:trainingmanagementsystem\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0035B26-1780-FB0E-564F-3D072D869F44}|TrainingManagementSystem\\TrainingManagementSystem.csproj|c:\\users\\dell\\onedrive\\desktop\\hcl\\trainingmanagementsystem\\trainingmanagementsystem\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0035B26-1780-FB0E-564F-3D072D869F44}|TrainingManagementSystem\\TrainingManagementSystem.csproj|solutionrelative:trainingmanagementsystem\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0035B26-1780-FB0E-564F-3D072D869F44}|TrainingManagementSystem\\TrainingManagementSystem.csproj|c:\\users\\dell\\onedrive\\desktop\\hcl\\trainingmanagementsystem\\trainingmanagementsystem\\services\\learnerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0035B26-1780-FB0E-564F-3D072D869F44}|TrainingManagementSystem\\TrainingManagementSystem.csproj|solutionrelative:trainingmanagementsystem\\services\\learnerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0035B26-1780-FB0E-564F-3D072D869F44}|TrainingManagementSystem\\TrainingManagementSystem.csproj|c:\\users\\dell\\onedrive\\desktop\\hcl\\trainingmanagementsystem\\trainingmanagementsystem\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0035B26-1780-FB0E-564F-3D072D869F44}|TrainingManagementSystem\\TrainingManagementSystem.csproj|solutionrelative:trainingmanagementsystem\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 287,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Learner.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\HCL\\TrainingManagementSystem\\TrainingManagementSystem\\Models\\Learner.cs",
+              "RelativeDocumentMoniker": "TrainingManagementSystem\\Models\\Learner.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\HCL\\TrainingManagementSystem\\TrainingManagementSystem\\Models\\Learner.cs",
+              "RelativeToolTip": "TrainingManagementSystem\\Models\\Learner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T09:18:20.516Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\HCL\\TrainingManagementSystem\\TrainingManagementSystem\\Services\\CourseService.cs",
+              "RelativeDocumentMoniker": "TrainingManagementSystem\\Services\\CourseService.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\HCL\\TrainingManagementSystem\\TrainingManagementSystem\\Services\\CourseService.cs",
+              "RelativeToolTip": "TrainingManagementSystem\\Services\\CourseService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T15:41:43.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnrollmentService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\HCL\\TrainingManagementSystem\\TrainingManagementSystem\\Services\\EnrollmentService.cs",
+              "RelativeDocumentMoniker": "TrainingManagementSystem\\Services\\EnrollmentService.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\HCL\\TrainingManagementSystem\\TrainingManagementSystem\\Services\\EnrollmentService.cs",
+              "RelativeToolTip": "TrainingManagementSystem\\Services\\EnrollmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T15:27:43.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\HCL\\TrainingManagementSystem\\TrainingManagementSystem\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "TrainingManagementSystem\\Models\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\HCL\\TrainingManagementSystem\\TrainingManagementSystem\\Models\\Enrollment.cs",
+              "RelativeToolTip": "TrainingManagementSystem\\Models\\Enrollment.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA/wCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T13:48:58.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\HCL\\TrainingManagementSystem\\TrainingManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "TrainingManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\HCL\\TrainingManagementSystem\\TrainingManagementSystem\\Program.cs*",
+              "RelativeToolTip": "TrainingManagementSystem\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T05:52:48.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\HCL\\TrainingManagementSystem\\TrainingManagementSystem\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "TrainingManagementSystem\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\HCL\\TrainingManagementSystem\\TrainingManagementSystem\\Models\\Course.cs",
+              "RelativeToolTip": "TrainingManagementSystem\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T05:53:54.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LearnerService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\HCL\\TrainingManagementSystem\\TrainingManagementSystem\\Services\\LearnerService.cs",
+              "RelativeDocumentMoniker": "TrainingManagementSystem\\Services\\LearnerService.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\HCL\\TrainingManagementSystem\\TrainingManagementSystem\\Services\\LearnerService.cs",
+              "RelativeToolTip": "TrainingManagementSystem\\Services\\LearnerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T16:04:09.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 113,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a0c5197d-0ac7-4b63-97cd-8872a789d233}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
